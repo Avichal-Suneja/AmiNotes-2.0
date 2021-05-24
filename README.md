@@ -1,16 +1,2 @@
-# aminotes2
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#AmiNotes-2.0
+This is an android application for the students of Amity University to get all their notes and sample-papers at one place conveniently. The App is made using Flutter for the frontend along with Firebase integration to store all the pdf files and retrieve them when required. It also gives the option of downloading any pdf you want in your local storage This is currently only for Computer Science Students from 1st year to 3rd year, but the the support can be extended in the future.
